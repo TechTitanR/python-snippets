@@ -26,10 +26,10 @@ python cli_tools/calculator.py
 
 A basic command-line notes manager that allows users to:
 
-➕ Add a new note
-📖 View all saved notes
-✏️ Edit an existing note
-❌ Delete a note
+- ➕ Add a new note
+- 📖 View all saved notes
+- ✏️ Edit an existing note
+- ❌ Delete a note
 
 **How to Run:**
 
@@ -38,17 +38,17 @@ python cli_tools/note_taker.py
 ```
 
 # 📚 Features Demonstrated
-Command-line interaction
-User input validation
-File read/write operations
-Dictionary and list handling
-Modular and maintainable code design
+- Command-line interaction
+- User input validation
+- File read/write operations
+- Dictionary and list handling
+- Modular and maintainable code design
 
 # 🛠️ Requirements
-Python 3.x
-No external libraries required (pure Python)
+- Python 3.x
+- No external libraries required (pure Python)
 
 # 🚀 Getting Started
-Clone the repository or download the .py files.
-Open a terminal and navigate to the cli_tools directory.
-Run the desired script using the commands mentioned above.
+- Clone the repository or download the .py files.
+- Open a terminal and navigate to the cli_tools directory.
+- Run the desired script using the commands mentioned above.
