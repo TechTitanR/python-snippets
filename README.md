@@ -52,3 +52,13 @@ python cli_tools/note_taker.py
 - Clone the repository or download the .py files.
 - Open a terminal and navigate to the cli_tools directory.
 - Run the desired script using the commands mentioned above.
+---
+
+### ✅ todo_manager.py
+A command-line To-Do list manager that supports:
+- Add, view, complete, and delete tasks
+- Stores tasks persistently in a `tasks.json` file
+- 
+```bash
+pyhton cli-tools/todo_manager.py
+```
