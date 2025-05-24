@@ -58,7 +58,7 @@ python cli_tools/note_taker.py
 A command-line To-Do list manager that supports:
 - Add, view, complete, and delete tasks
 - Stores tasks persistently in a `tasks.json` file
-- 
+
 ```bash
 pyhton cli-tools/todo_manager.py
 ```
