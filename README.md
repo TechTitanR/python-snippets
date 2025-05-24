@@ -1,6 +1,7 @@
 # 🐍 Python Snippets – CLI Tools Collection
 
-A curated collection of beginner-friendly Python command-line tools that demonstrate core programming concepts such as functions, loops, file handling, and working with user input. Ideal for learning and experimentation!
+A curated collection of beginner-friendly Python command-line tools that demonstrate core programming concepts such as functions, loops, file handling, and working with user input. 
+Ideal for learning and experimentation!
 
 ---
 
@@ -36,6 +37,21 @@ A basic command-line notes manager that allows users to:
 ```bash
 python cli_tools/note_taker.py
 ```
+---
+
+### ✅ todo_manager.py – To-Do List Manager
+A command-line To-Do list manager that supports:
+
+- ➕ Add a new task
+- 📋 View tasks
+- ✅ Mark tasks as complete
+- 🗑️ Delete tasks
+- 💾 Stores tasks persistently in a tasks.json file
+
+```bash
+python cli_tools/todo_manager.py
+```
+--- 
 
 # 📚 Features Demonstrated
 - Command-line interaction
@@ -53,12 +69,3 @@ python cli_tools/note_taker.py
 - Open a terminal and navigate to the cli_tools directory.
 - Run the desired script using the commands mentioned above.
 ---
-
-### ✅ todo_manager.py
-A command-line To-Do list manager that supports:
-- Add, view, complete, and delete tasks
-- Stores tasks persistently in a `tasks.json` file
-
-```bash
-pyhton cli-tools/todo_manager.py
-```
