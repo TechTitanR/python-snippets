@@ -48,10 +48,24 @@ A command-line To-Do list manager that supports:
 - 🗑️ Delete tasks
 - 💾 Stores tasks persistently in a tasks.json file
 
+**How to Run:**
 ```bash
 python cli_tools/todo_manager.py
 ```
 --- 
+
+### 🔐 password_saver.py – CLI Password Manager
+
+- Add, view, search, and delete saved credentials
+- Passwords are stored in a `passwords.json` file
+- Includes basic encryption (Caesar cipher) for learning purposes
+
+**How to Run:**
+
+```bash
+python cli_tools/password_saver.py
+```
+---
 
 # 📚 Features Demonstrated
 - Command-line interaction
